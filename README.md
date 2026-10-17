@@ -14,10 +14,10 @@
  - 03:30 - [MATH1162 - 0001](https://learn.georgebrown.ca/d2l/home/518392)
  - 6:08 - [comp1234 - Introduction to Web Development](https://learn.georgebrown.ca/d2l/home/516630)
   
-**Wednesday**
+- **Wednesday**
 - 05:07 - [comp1234_Introduction to Web Development](https://learn.georgebrown.ca/d2l/home/516630)
 
-**Tursday**
+- **Tursday**
 - 10:12 - [math1162_0001](https://learn.georgebrown.ca/d2l/home/518392)
 
 **Friday**
