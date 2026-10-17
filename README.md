@@ -8,7 +8,7 @@
 
 - **Monday**
   - 13:00 - [COMP1238 - Data Management](https://learn.georgebrown.ca/d2l/home/452067)
-  - 12:01 - [copm1151 - it essentials ]_(https://learn.georgebrown.ca/d2l/home)
+  - 12:01 - [copm1151 - it Essentials ](https://learn.georgebrown.ca/d2l/home/515478)
 
 - **Tuesday**
   
