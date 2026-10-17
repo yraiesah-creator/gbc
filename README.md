@@ -20,5 +20,5 @@
 - **Tursday**
 - 10:12 - [math1162_0001](https://learn.georgebrown.ca/d2l/home/518392)
 
-**Friday**
+- **Friday**
 - 12:01 - [COMP1238 - Data Management](https://learn.georgebrown.ca/d2l/home/452067)
