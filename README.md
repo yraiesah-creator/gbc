@@ -22,3 +22,5 @@
 
 - **Friday**
 - 12:01 - [COMP1238 - Data Management](https://learn.georgebrown.ca/d2l/home/452067)
+
+- (https://github.com/yraiesah-creator/gbc/edit/main/README.md)
